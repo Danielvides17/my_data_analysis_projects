@@ -16,5 +16,5 @@ This project analyzes over 1 million Spotify tracks to uncover the structural ch
 
 ## How to Run the Project
 1. Clone the repository.
-2. Ensure you have the `spotify_data.csv` dataset in the root directory.
+2. Ensure you have the `spotify_data.csv` dataset in the root directory. Or download the dataset from this link: https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks/data 
 3. Run the Jupyter Notebook `spotify_analysis_en.ipynb` cell by cell.
