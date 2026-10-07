@@ -18,4 +18,4 @@ Este proyecto analiza más de 1 millón de canciones de Spotify para descubrir l
 ## Cómo Correr el Proyecto
 1. Clone el repositorio.
 2. Asegúrese de tener el archivo `spotify_data.csv` en la raíz del directorio. En caso que no, descárguelo del siguiente link: https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks/data  
-3. Corra en Jupyter Notebook `spotify_analysis_en.ipynb` celda por celda.
+3. Corra en Jupyter Notebook `analisis_mercado_spotify_es.ipynb` celda por celda.
